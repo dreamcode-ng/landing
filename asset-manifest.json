@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e66b71a.chunk.css",
+    "main.js": "/static/js/main.33779cf3.chunk.js",
+    "main.js.map": "/static/js/main.33779cf3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ac881ebc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ac881ebc.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.61d2f07a.chunk.js": "/static/js/2.61d2f07a.chunk.js",
+    "static/js/2.61d2f07a.chunk.js.map": "/static/js/2.61d2f07a.chunk.js.map",
+    "static/js/3.e4bb67e6.chunk.js": "/static/js/3.e4bb67e6.chunk.js",
+    "static/js/3.e4bb67e6.chunk.js.map": "/static/js/3.e4bb67e6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8e66b71a.chunk.css.map": "/static/css/main.8e66b71a.chunk.css.map",
+    "static/js/2.61d2f07a.chunk.js.LICENSE.txt": "/static/js/2.61d2f07a.chunk.js.LICENSE.txt",
+    "static/media/landing.css": "/static/media/BannerLandingDreamCode.b8d519cc.jpg",
+    "static/media/style.css": "/static/media/ElegantIcons.941bf29b.woff",
+    "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.d25156c9.woff",
+    "static/media/Tratamiento_de_Datos_Dreamcode.pdf": "/static/media/Tratamiento_de_Datos_Dreamcode.653281ea.pdf",
+    "static/media/all.css": "/static/media/fa-solid-900.f06e568e.eot",
+    "static/media/logo-global-networks.png": "/static/media/logo-global-networks.a86be62f.png",
+    "static/media/logo-miraclon.png": "/static/media/logo-miraclon.2b8ae4e7.png",
+    "static/media/logo-sequoia.png": "/static/media/logo-sequoia.0d97546e.png",
+    "static/media/logo-square-trade.png": "/static/media/logo-square-trade.ae68f46b.png",
+    "static/media/logo-target.png": "/static/media/logo-target.8d176a4e.png",
+    "static/media/pantallazo-video-landing.png": "/static/media/pantallazo-video-landing.59846d74.png",
+    "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac881ebc.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.61d2f07a.chunk.js",
+    "static/css/main.8e66b71a.chunk.css",
+    "static/js/main.33779cf3.chunk.js"
+  ]
+}
