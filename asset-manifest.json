@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf20aba6.chunk.css",
-    "main.js": "/static/js/main.adf3edeb.chunk.js",
-    "main.js.map": "/static/js/main.adf3edeb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f45577fa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f45577fa.js.map",
+    "main.css": "/static/css/main.091e6ecd.chunk.css",
+    "main.js": "/static/js/main.68f012d6.chunk.js",
+    "main.js.map": "/static/js/main.68f012d6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b918818e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b918818e.js.map",
     "static/css/2.09d44ab4.chunk.css": "/static/css/2.09d44ab4.chunk.css",
-    "static/js/2.4da63360.chunk.js": "/static/js/2.4da63360.chunk.js",
-    "static/js/2.4da63360.chunk.js.map": "/static/js/2.4da63360.chunk.js.map",
-    "static/js/3.6ca5be40.chunk.js": "/static/js/3.6ca5be40.chunk.js",
-    "static/js/3.6ca5be40.chunk.js.map": "/static/js/3.6ca5be40.chunk.js.map",
+    "static/js/2.fde935b5.chunk.js": "/static/js/2.fde935b5.chunk.js",
+    "static/js/2.fde935b5.chunk.js.map": "/static/js/2.fde935b5.chunk.js.map",
+    "static/js/3.5eed3cb7.chunk.js": "/static/js/3.5eed3cb7.chunk.js",
+    "static/js/3.5eed3cb7.chunk.js.map": "/static/js/3.5eed3cb7.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.09d44ab4.chunk.css.map": "/static/css/2.09d44ab4.chunk.css.map",
-    "static/css/main.bf20aba6.chunk.css.map": "/static/css/main.bf20aba6.chunk.css.map",
-    "static/js/2.4da63360.chunk.js.LICENSE.txt": "/static/js/2.4da63360.chunk.js.LICENSE.txt",
+    "static/css/main.091e6ecd.chunk.css.map": "/static/css/main.091e6ecd.chunk.css.map",
+    "static/js/2.fde935b5.chunk.js.LICENSE.txt": "/static/js/2.fde935b5.chunk.js.LICENSE.txt",
     "static/media/style.css": "/static/media/ElegantIcons.941bf29b.woff",
     "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.d25156c9.woff",
     "static/media/Tratamiento_de_Datos_Dreamcode.pdf": "/static/media/Tratamiento_de_Datos_Dreamcode.653281ea.pdf",
@@ -25,10 +25,10 @@
     "static/media/themify-icons.css": "/static/media/themify.f0fc8c79.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f45577fa.js",
+    "static/js/runtime-main.b918818e.js",
     "static/css/2.09d44ab4.chunk.css",
-    "static/js/2.4da63360.chunk.js",
-    "static/css/main.bf20aba6.chunk.css",
-    "static/js/main.adf3edeb.chunk.js"
+    "static/js/2.fde935b5.chunk.js",
+    "static/css/main.091e6ecd.chunk.css",
+    "static/js/main.68f012d6.chunk.js"
   ]
 }
