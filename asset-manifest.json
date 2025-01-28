@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dcfdc153.css",
-    "main.js": "/static/js/main.3b179d5a.js",
+    "main.css": "/static/css/main.3b9c3ecc.css",
+    "main.js": "/static/js/main.2814498c.js",
     "static/js/422.ad16d672.chunk.js": "/static/js/422.ad16d672.chunk.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.19246336eb35c8d4fb59.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.278446d862aaeffb3f59.svg",
@@ -37,12 +37,12 @@
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.95dbe63555424726ce0c.woff2",
     "static/media/logo-phonecheck.png": "/static/media/logo-phonecheck.e808342d98a02dbe1871.png",
     "index.html": "/index.html",
-    "main.dcfdc153.css.map": "/static/css/main.dcfdc153.css.map",
-    "main.3b179d5a.js.map": "/static/js/main.3b179d5a.js.map",
+    "main.3b9c3ecc.css.map": "/static/css/main.3b9c3ecc.css.map",
+    "main.2814498c.js.map": "/static/js/main.2814498c.js.map",
     "422.ad16d672.chunk.js.map": "/static/js/422.ad16d672.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcfdc153.css",
-    "static/js/main.3b179d5a.js"
+    "static/css/main.3b9c3ecc.css",
+    "static/js/main.2814498c.js"
   ]
 }
