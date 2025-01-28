@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7ea7f05.css",
-    "main.js": "/static/js/main.21acf663.js",
+    "main.css": "/static/css/main.dcfdc153.css",
+    "main.js": "/static/js/main.3b179d5a.js",
     "static/js/422.ad16d672.chunk.js": "/static/js/422.ad16d672.chunk.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.19246336eb35c8d4fb59.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.278446d862aaeffb3f59.svg",
     "static/media/talento-tecnologico.png": "/static/media/talento-tecnologico.68621b3029c15ecbf7cb.png",
     "static/media/ElegantIcons.svg": "/static/media/ElegantIcons.44385f164a99385eb34f.svg",
+    "static/media/Tratamiento_de_Datos_Dreamcode.pdf": "/static/media/Tratamiento_de_Datos_Dreamcode.10ce95ddd164688fcf1b.pdf",
     "static/media/themify.svg?-fvbane": "/static/media/themify.f0fc8c798eac5636249c.svg",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.f06e568e0195a8a577d5.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.81853c2fb712de98ef66.ttf",
@@ -36,12 +37,12 @@
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.95dbe63555424726ce0c.woff2",
     "static/media/logo-phonecheck.png": "/static/media/logo-phonecheck.e808342d98a02dbe1871.png",
     "index.html": "/index.html",
-    "main.c7ea7f05.css.map": "/static/css/main.c7ea7f05.css.map",
-    "main.21acf663.js.map": "/static/js/main.21acf663.js.map",
+    "main.dcfdc153.css.map": "/static/css/main.dcfdc153.css.map",
+    "main.3b179d5a.js.map": "/static/js/main.3b179d5a.js.map",
     "422.ad16d672.chunk.js.map": "/static/js/422.ad16d672.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7ea7f05.css",
-    "static/js/main.21acf663.js"
+    "static/css/main.dcfdc153.css",
+    "static/js/main.3b179d5a.js"
   ]
 }
