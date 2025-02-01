@@ -6,16 +6,24 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-<url>
-	<loc>http://landing.dreamcodesoft.com</loc>
-	<lastmod>2022-06-24T09:41:05+01:00</lastmod>
-	<priority>0.9</priority>
-</url>
+    <url>
+		<loc>https://landing.dreamcodesoft.com</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://landing.dreamcodesoft.com/en/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://landing.dreamcodesoft.com/es/" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://landing.dreamcodesoft.com/" />
+	</url>
+	<url>
+		<loc>https://landing.dreamcodesoft.com/es</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://landing.dreamcodesoft.com/en/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://landing.dreamcodesoft.com/es/" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://landing.dreamcodesoft.com/" />
+	</url>
 
-<url>
-	<loc>https://landing.dreamcodesoft.com</loc>
-	<lastmod>2022-06-24T09:41:05+01:00</lastmod>
-	<priority>0.9</priority>
-</url>
+    <url>
+		<loc>https://landing.dreamcodesoft.com/en</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://landing.dreamcodesoft.com/en/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://landing.dreamcodesoft.com/es/" />
+		<xhtml:link rel="canonical" hreflang="es" href="https://landing.dreamcodesoft.com/" />
+	</url>
 
 </urlset>
