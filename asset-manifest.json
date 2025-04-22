@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0dd07fde.css",
-    "main.js": "/static/js/main.0b09c7e5.js",
+    "main.js": "/static/js/main.d60f6509.js",
     "static/js/422.2a8de54e.chunk.js": "/static/js/422.2a8de54e.chunk.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.19246336eb35c8d4fb59.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.278446d862aaeffb3f59.svg",
@@ -37,11 +37,11 @@
     "static/media/logo-movizzon.svg": "/static/media/logo-movizzon.6a7db65610070cd199b3750583028bb3.svg",
     "index.html": "/index.html",
     "main.0dd07fde.css.map": "/static/css/main.0dd07fde.css.map",
-    "main.0b09c7e5.js.map": "/static/js/main.0b09c7e5.js.map",
+    "main.d60f6509.js.map": "/static/js/main.d60f6509.js.map",
     "422.2a8de54e.chunk.js.map": "/static/js/422.2a8de54e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0dd07fde.css",
-    "static/js/main.0b09c7e5.js"
+    "static/js/main.d60f6509.js"
   ]
 }
